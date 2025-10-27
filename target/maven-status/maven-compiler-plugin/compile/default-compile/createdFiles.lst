@@ -1,6 +1,6 @@
-com\example\frontend\controller\model\User.class
-com\example\frontend\config\AppConfig.class
-com\example\frontend\controller\CandidateAction.class
-com\example\frontend\controller\HomeAction.class
-com\example\frontend\controller\RegistrationAction.class
-com\example\frontend\controller\UserAction.class
+com/example/frontend/controller/CandidateAction.class
+com/example/frontend/controller/HomeAction.class
+com/example/frontend/config/AppConfig.class
+com/example/frontend/controller/RegistrationAction.class
+com/example/frontend/controller/UserAction.class
+com/example/frontend/controller/model/User.class
